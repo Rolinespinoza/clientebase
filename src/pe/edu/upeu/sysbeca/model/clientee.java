@@ -9,6 +9,6 @@ package pe.edu.upeu.sysbeca.model;
  *
  * @author alum.fial8
  */
-public class Salida {
-  
+public class clientee {
+    
 }
